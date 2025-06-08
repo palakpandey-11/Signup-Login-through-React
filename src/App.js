@@ -13,7 +13,7 @@ import Details from "./components/Details.js";
 
 function App() {
   return (
-    <Router basename="/Signup-Login-through-React">
+    <Router>
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />
