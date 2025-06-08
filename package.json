@@ -1,6 +1,6 @@
 {
+   "homepage": "https://palakpandey-11.github.io/Signup-Login-through-React",
   "name": "login-signup-page",
-  "homepage": "https://palakpandey-11.github.io/Signup-Login-through-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,10 +17,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+  
   },
   "eslintConfig": {
     "extends": [
