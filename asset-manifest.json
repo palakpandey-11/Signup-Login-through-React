@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palakpandey-11/Signup-Login-through-React.git/static/css/main.95c290f2.css",
-    "main.js": "/palakpandey-11/Signup-Login-through-React.git/static/js/main.d8f0b679.js",
-    "static/js/453.f0e89efe.chunk.js": "/palakpandey-11/Signup-Login-through-React.git/static/js/453.f0e89efe.chunk.js",
-    "index.html": "/palakpandey-11/Signup-Login-through-React.git/index.html",
-    "main.95c290f2.css.map": "/palakpandey-11/Signup-Login-through-React.git/static/css/main.95c290f2.css.map",
-    "main.d8f0b679.js.map": "/palakpandey-11/Signup-Login-through-React.git/static/js/main.d8f0b679.js.map",
-    "453.f0e89efe.chunk.js.map": "/palakpandey-11/Signup-Login-through-React.git/static/js/453.f0e89efe.chunk.js.map"
+    "main.css": "/Signup-Login-through-React/static/css/main.95c290f2.css",
+    "main.js": "/Signup-Login-through-React/static/js/main.651ee84f.js",
+    "static/js/453.f0e89efe.chunk.js": "/Signup-Login-through-React/static/js/453.f0e89efe.chunk.js",
+    "index.html": "/Signup-Login-through-React/index.html",
+    "main.95c290f2.css.map": "/Signup-Login-through-React/static/css/main.95c290f2.css.map",
+    "main.651ee84f.js.map": "/Signup-Login-through-React/static/js/main.651ee84f.js.map",
+    "453.f0e89efe.chunk.js.map": "/Signup-Login-through-React/static/js/453.f0e89efe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95c290f2.css",
-    "static/js/main.d8f0b679.js"
+    "static/js/main.651ee84f.js"
   ]
 }
