@@ -1,0 +1,58 @@
+.application-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  background-color: #f8f9fc;
+  min-height: 100vh;
+}
+
+.application-box {
+  background: white;
+  border: 5px solid #ffc107; /* yellow border */
+  padding: 30px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 600px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.application-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.application-container .join-banner {
+  width: 120px;
+  margin-bottom: 15px;
+}
+
+.application-container .name-fields,
+.application-container .birth-fields {
+  display: flex;
+  gap: 10px;
+}
+
+.application-container input,
+.application-container select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.application-container .submit-button {
+  background-color: #198754;
+  color: white;
+  padding: 12px;
+  border: none;
+  width: 100%;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.application-container .submit-button:hover {
+  background-color: #157347;
+}
